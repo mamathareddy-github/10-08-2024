@@ -1,0 +1,47 @@
+.container {
+    width: 400px;
+    /* height: 500px; */
+    border-width: 2px;
+    border-style: solid;
+
+}
+.header{
+    height: 80px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 10px;
+
+}
+.nav-1, .nav-2{
+    height: 50px;
+    width: 80px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+.nav-1{
+    margin-right: 170px;
+}
+.main{
+    height: 250px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 10px;
+}
+.item{
+    width: 96px;
+    height: 200px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+    
+}
+.footer{
+    width: 380px;
+    height: 60px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 10px;
+}

@@ -1,0 +1,41 @@
+.container3{
+    width: 750px;
+    /* height: px; */
+    border: 2px solid black;
+   
+   }
+   .container{
+       /* height: 500px; */
+       background-color: none;
+       display: flex;
+       flex-wrap: wrap;
+   
+       justify-content: space-around;
+       align-items: center;
+       margin-top: 10px;
+   }
+   .box{
+       height:350px;
+       width:155px ;
+       border: 1px solid black;
+   }
+   .b{
+       width:350px;
+       height:350px;
+   }
+   .container2{
+       height: 120px;
+       width: 100%px;
+       border: 1px solid black;
+       display: flex;
+       justify-content:space-around;
+       align-items: center;
+       margin: 10px;
+       
+   }
+   .boxes{
+       height:80px;
+       width: 145px;
+       border: 1px solid black;
+   
+   }
